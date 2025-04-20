@@ -125,7 +125,7 @@ FAQs
 
 ---
 
-## ⚠ Disclaimer
+## 📜 Project Declaration
 
 This project was developed using *Wix Studio*, for rapid prototyping during a hackathon. While traditional code is minimal, the logic, datasets, AI models, and integrations were ideated and partially implemented using external tools like Scratch, Unity, and BotPress.
 
