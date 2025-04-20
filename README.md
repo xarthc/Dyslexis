@@ -94,11 +94,10 @@ A no-code *Wix Studio-based web platform* offering a range of tools to support i
 ![Products](images/products.png)
 ![Therapist](images/therapist.png)
 ![Parents](images/parents.png)
-![Meeting UI](images/meeting.png)
+![Meeting UI](images/meetings.png)
 ![Blogs](images/blogs.png)
 ![Contact Us](images/contactus.png)
-![FAQs](images/faqs
-.png)
+![FAQs](images/faqs.png)
 
 
 ---
