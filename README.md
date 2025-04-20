@@ -85,18 +85,41 @@ A no-code *Wix Studio-based web platform* offering a range of tools to support i
 ---
 
 ## 📸 Screenshots
-
+Home Page
 ![Home Page](images/homepage.png)
-![Game UI](images/gameexample)
+Game 1
+![Game UI](images/gameexample/game1.png)
+Game 2
+![Game UI](images/gameexample/game2.png)
+Game 3
+![Game UI](images/gameexample/game3.png)
+Game 4
+![Game UI](images/gameexample/game4.png)
+Game 5
+![Game UI](images/gameexample/game5.png)
+Game 6
+![Game UI](images/gameexample/game6.png)
+Game 7
+![Game UI](images/gameexample/game7.png)
+ChatBot
 ![ChatBot](images/chatbot.png)
+About Us
 ![About Us](images/aboutus.png)
+Services
 ![Services](images/services.png)
+Products
 ![Products](images/products.png)
+Therapist
 ![Therapist](images/therapist.png)
+Parents
 ![Parents](images/parents.png)
+Meeting
 ![Meeting UI](images/meetings.png)
+Blogs
 ![Blogs](images/blogs.png)
+Contact Us
 ![Contact Us](images/contactus.png)
+FAQs
 ![FAQs](images/faqs.png)
 
 
